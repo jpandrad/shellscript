@@ -5,5 +5,5 @@ Scripts in Shell Script that I created for various purposes and troubleshooting.
 
 `SimpleCheckDownload.sh` => Script to monitor the latency time for downloading a BBVOD Content.
 
-`testNFSTranfer.sh` => Script created to check the latency on the NFS/SMB mounted point.
+`testNFSTranfer.sh` => Script created to check the tranfer latency on the NFS/SMB mounted point.
 
